@@ -1,0 +1,110 @@
+[
+    { 
+        "name" : "Muhammad Fadzreen Bin Shomat",
+        "nationality" : "Malaysia",
+        "race" : "Melayu",
+        "age" : 28,
+        "gender" : "M"
+   },
+   {
+        "name" : "Nabila Binti Razali",
+        "nationality" : "Malaysia",
+        "race" : "Melayu",
+        "age" : 30,
+        "gender" : "F"
+   },
+   {
+        "name" : "Sathia A/L Aramugam",
+        "nationality" : "Malaysia",
+        "race" : "Indian",
+        "age" : 40,
+        "gender" : "M"
+    },
+    {
+         "name" : "Tan Lee Zia",
+         "nationality" : "Malaysia",
+         "race" : "Chinese",
+         "age" : 35,
+         "gender" : "M"
+     },
+     {
+          "name" : "Amalendu A/P Divyesh",
+          "nationality" : "Malaysia",
+          "race" : "Indian",
+          "age" : 35,
+          "gender" : "F"
+      },
+      {
+           "name" : "Nurul Hidayah Binti Kamarudin",
+           "nationality" : "Malaysia",
+           "race" : "Melayu",
+           "age" : 25,
+           "gender" : "F"
+       },
+       {
+            "name" : "Ahmad Dusuki Bin Amin",
+            "nationality" : "Malaysia",
+            "race" : "Melayu",
+            "age" : 30,
+            "gender" : "M"
+        },
+        {
+             "name" : "Lim Kim Wan",
+             "nationality" : "Malaysia",
+             "race" : "Chinese",
+             "age" : 28,
+             "gender" : "M"
+         },
+         {
+              "name" : "Wan Chan Yu",
+              "nationality" : "Malaysia",
+              "race" : "Chinese",
+              "age" : 15,
+              "gender" : "F"
+          },
+         {
+              "name" : "Shuib Bin Razak",
+              "nationality" : "Malaysia",
+              "race" : "Melayu",
+              "age" : 80,
+              "gender" : "M"
+          },
+          {
+               "name" : "Kamarul Bin Izzudin",
+               "nationality" : "Malaysia",
+               "race" : "Melayu",
+               "age" : 90,
+               "gender" : "M"
+           },
+           {
+                "name" : "Farah Liyana Binti Naim",
+                "nationality" : "Malaysia",
+                "race" : "Melayu",
+                "age" : 11,
+                "gender" : "F"
+            },
+            
+           {
+                "name" : "Siti Mariam Binti Halim",
+                "nationality" : "Malaysia",
+                "race" : "Melayu",
+                "age" : 37,
+                "gender" : "F"
+            },
+            
+            {
+                 "name" : "Saleha Binti Riduan",
+                 "nationality" : "Malaysia",
+                 "race" : "Melayu",
+                 "age" : 27,
+                 "gender" : "F"
+             },
+            
+             {
+                  "name" : "Nik Ahmad Kamil Bin Sanusi",
+                  "nationality" : "Malaysia",
+                  "race" : "Melayu",
+                  "age" : 23,
+                  "gender" : "M"
+              }
+]
